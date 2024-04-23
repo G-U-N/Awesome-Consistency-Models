@@ -1,5 +1,9 @@
 # Awesome-Consistency-Models
 
+<div align="center">
+  <img src="logo.png" alt="comparison" style="zoom:80%;" />
+</div>
+
 ### Conference
 
 - Consistency Models (**ICML 2023**)[[paper](https://arxiv.org/abs/2303.01469)]
