@@ -37,21 +37,21 @@
 
 ### Related Works
 
-Score-Based Generative Modeling through Stochastic Differential Equations (**ICLR 2021**) [[paper](https://arxiv.org/abs/2011.13456)]
+- Score-Based Generative Modeling through Stochastic Differential Equations (**ICLR 2021**) [[paper](https://arxiv.org/abs/2011.13456)]
 
-Flow Matching for Generative Modeling (**ICLR 2023**) [[paper](https://openreview.net/forum?id=PqvMRDCJT9t)]
+- Flow Matching for Generative Modeling (**ICLR 2023**) [[paper](https://openreview.net/forum?id=PqvMRDCJT9t)]
 
-Elucidating the Design Space of Diffusion-Based Generative Models (**NeurIPS 2022**) [[paper](https://arxiv.org/abs/2206.00364)]
+- Elucidating the Design Space of Diffusion-Based Generative Models (**NeurIPS 2022**) [[paper](https://arxiv.org/abs/2206.00364)]
 
-Denoising Diffusion Probabilistic Models [[paper](https://arxiv.org/abs/2006.11239)]
+- Denoising Diffusion Probabilistic Models [[paper](https://arxiv.org/abs/2006.11239)]
 
-Denoising Diffusion Implicit Models (**ICLR 2021**) [[paper](https://openreview.net/forum?id=St1giarCHLP)]
+- Denoising Diffusion Implicit Models (**ICLR 2021**) [[paper](https://openreview.net/forum?id=St1giarCHLP)]
 
-DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps (**NeurIPS 2022**) [[paper](https://arxiv.org/abs/2206.00927)]
+- DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps (**NeurIPS 2022**) [[paper](https://arxiv.org/abs/2206.00927)]
 
-Progressive Distillation for Fast Sampling of Diffusion Models (**ICLR 2022**) [[paper](https://arxiv.org/abs/2202.00512)]
+- Progressive Distillation for Fast Sampling of Diffusion Models (**ICLR 2022**) [[paper](https://arxiv.org/abs/2202.00512)]
 
-On Distillation of Guided Diffusion Models (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Meng_On_Distillation_of_Guided_Diffusion_Models_CVPR_2023_paper.pdf)]
+- On Distillation of Guided Diffusion Models (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Meng_On_Distillation_of_Guided_Diffusion_Models_CVPR_2023_paper.pdf)]
 
 
 
