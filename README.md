@@ -1,7 +1,7 @@
 # Awesome-Consistency-Models
 
 <div align="center">
-  <img src="logo.png" alt="logo" style="zoom:10%;" />
+  <img src="logo.png" alt="logo" width="400" />
 </div>
 
 ### Conference
