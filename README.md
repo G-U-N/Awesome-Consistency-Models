@@ -42,6 +42,8 @@
 
 - Generalized Consistency Trajectory Models for Image Manipulation (**arXiv 2024**) [[paper](https://arxiv.org/abs/2403.12510)]
 
+- Consistency Models Made Easy (**Blog 2024**) [[Blog](https://gsunshine.notion.site/Consistency-Models-Made-Easy-954205c0b4a24c009f78719f43b419cc)]
+
 ### Related Works
 
 - Score-Based Generative Modeling through Stochastic Differential Equations (**ICLR 2021**) [[paper](https://arxiv.org/abs/2011.13456)]
