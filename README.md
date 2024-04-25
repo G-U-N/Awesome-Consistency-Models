@@ -43,6 +43,7 @@
 - Generalized Consistency Trajectory Models for Image Manipulation (**arXiv 2024**) [[paper](https://arxiv.org/abs/2403.12510)]
 
 - Consistency Models Made Easy (**Blog 2024**) [[Blog](https://gsunshine.notion.site/Consistency-Models-Made-Easy-954205c0b4a24c009f78719f43b419cc)]
+- Hyper-SD: Trajectory Segmented Consistency Model for Efficient Image Synthesis (**arXiv 2024**) [[paper](https://arxiv.org/abs/2404.13686)]
 
 ### Related Works
 
