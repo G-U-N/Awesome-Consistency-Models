@@ -17,6 +17,8 @@
 
 - ACT-Diffusion: Efficient Adversarial Consistency Training for One-step Diffusion Models (**CVPR 2024**)[[paper](https://arxiv.org/abs/2311.14097)]
 
+- Consistency Large Language Models: A Family of Efficient Parallel Decoders (**ICML 2024**)[[paper](https://arxiv.org/abs/2403.00835)]
+
 - CoMoSpeech: One-Step Speech and Singing Voice Synthesis via Consistency Model (**ACM MM 2023**)[[paper](https://arxiv.org/abs/2305.06908)]
 
 
