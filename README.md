@@ -57,6 +57,8 @@
 
 - Denoising Diffusion Probabilistic Models [[paper](https://arxiv.org/abs/2006.11239)]
 
+- Stable Target Field for Reduced Variance Score Estimation in Diffusion Models (**ICLR 2023**) [[paper](https://arxiv.org/abs/2302.00670)]
+
 - Denoising Diffusion Implicit Models (**ICLR 2021**) [[paper](https://openreview.net/forum?id=St1giarCHLP)]
 
 - DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps (**NeurIPS 2022**) [[paper](https://arxiv.org/abs/2206.00927)]
