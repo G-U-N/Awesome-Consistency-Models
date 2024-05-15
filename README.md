@@ -19,6 +19,8 @@
 
 - Consistency Large Language Models: A Family of Efficient Parallel Decoders (**ICML 2024**)[[paper](https://arxiv.org/abs/2403.00835)]
 
+- Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation (**RSS 2024**) [paper](https://arxiv.org/abs/2405.07503)
+- 
 - CoMoSpeech: One-Step Speech and Singing Voice Synthesis via Consistency Model (**ACM MM 2023**)[[paper](https://arxiv.org/abs/2305.06908)]
 
 
