@@ -57,7 +57,7 @@
 
 - Elucidating the Design Space of Diffusion-Based Generative Models (**NeurIPS 2022**) [[paper](https://arxiv.org/abs/2206.00364)]
 
-- Denoising Diffusion Probabilistic Models [[paper](https://arxiv.org/abs/2006.11239)]
+- Denoising Diffusion Probabilistic Models (**NeurIPS 2020**) [[paper](https://arxiv.org/abs/2006.11239)]
 
 - Stable Target Field for Reduced Variance Score Estimation in Diffusion Models (**ICLR 2023**) [[paper](https://arxiv.org/abs/2302.00670)]
 
