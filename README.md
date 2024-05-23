@@ -26,6 +26,8 @@
 
 ### Preprint
 
+- Phased Consistency Model (**arXiv 2024**)
+
 - AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning (**arXiv 2024**)[[paper](https://arxiv.org/abs/2402.00769)]
 
 - RL for Consistency Models: Faster Reward Guided Text-to-Image Generation (**arXiv 2024**) [[paper](https://arxiv.org/abs/2404.03673)]
