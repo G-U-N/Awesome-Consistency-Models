@@ -26,7 +26,7 @@
 
 ### Preprint
 
-- Phased Consistency Model (**arXiv 2024**)
+- Phased Consistency Model (**arXiv 2024**) [[paper](https://huggingface.co/papers/2405.18407)]
 
 - AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning (**arXiv 2024**)[[paper](https://arxiv.org/abs/2402.00769)]
 
