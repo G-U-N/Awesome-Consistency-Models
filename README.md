@@ -51,6 +51,10 @@
 - Consistency Models Made Easy (**Blog 2024**) [[Blog](https://gsunshine.notion.site/Consistency-Models-Made-Easy-954205c0b4a24c009f78719f43b419cc)]
 - Hyper-SD: Trajectory Segmented Consistency Model for Efficient Image Synthesis (**arXiv 2024**) [[paper](https://arxiv.org/abs/2404.13686)]
 
+- TRACT
+
+- BOOT
+
 ### Related Works
 
 - Score-Based Generative Modeling through Stochastic Differential Equations (**ICLR 2021**) [[paper](https://arxiv.org/abs/2011.13456)]
@@ -70,6 +74,8 @@
 - Progressive Distillation for Fast Sampling of Diffusion Models (**ICLR 2022**) [[paper](https://arxiv.org/abs/2202.00512)]
 
 - On Distillation of Guided Diffusion Models (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Meng_On_Distillation_of_Guided_Diffusion_Models_CVPR_2023_paper.pdf)]
+
+- SOFT DIFFUSION SCORE MATCHING FOR GENERAL CORRUPTIONS
 
 
 
