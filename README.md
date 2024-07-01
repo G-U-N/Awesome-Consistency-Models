@@ -77,6 +77,8 @@
 
 - SOFT DIFFUSION SCORE MATCHING FOR GENERAL CORRUPTIONS
 
+- Score identity Distillation: Exponentially Fast Distillation of Pretrained Diffusion Models for One-Step Generation (**ICML 2024**) [[paper](https://arxiv.org/pdf/2404.04057)]
+
 
 
 
