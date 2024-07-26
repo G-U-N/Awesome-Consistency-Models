@@ -54,6 +54,10 @@
 - TRACT
 
 - BOOT
+  
+- Motion Consistency Model: Accelerating Video Diffusion with Disentangled Motion-Appearance Distillation. (**arXiv 2024**) [[paper](https://arxiv.org/abs/2406.06890)]
+  
+- ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation (**arXiv 2024**) [[paper](https://arxiv.org/abs/2406.01586)]
 
 ### Related Works
 
