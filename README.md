@@ -59,7 +59,7 @@
   
 - ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation (**arXiv 2024**) [[paper](https://arxiv.org/abs/2406.01586)]
 
-- Target-Driven Distillation: Consistency Distillation with Target Timestep Selection and Decoupled Guidance (**arXiv**) [[paper](https://arxiv.org/abs/2409.01347)]
+- Target-Driven Distillation: Consistency Distillation with Target Timestep Selection and Decoupled Guidance (**arXiv 2024**) [[paper](https://arxiv.org/abs/2409.01347)]
 
 ### Related Works
 
