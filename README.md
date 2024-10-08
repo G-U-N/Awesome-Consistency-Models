@@ -23,12 +23,12 @@
   
 - CoMoSpeech: One-Step Speech and Singing Voice Synthesis via Consistency Model (**ACM MM 2023**)[[paper](https://arxiv.org/abs/2305.06908)]
 
+- Phased Consistency Model (**NeurIPS 2024**) [[paper](https://huggingface.co/papers/2405.18407)]
+
+- AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning (**SIGGRAPH ASIA TCS 2024**)[[paper](https://arxiv.org/abs/2402.00769)]
 
 ### Preprint
 
-- Phased Consistency Model (**arXiv 2024**) [[paper](https://huggingface.co/papers/2405.18407)]
-
-- AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning (**arXiv 2024**)[[paper](https://arxiv.org/abs/2402.00769)]
 
 - RL for Consistency Models: Faster Reward Guided Text-to-Image Generation (**arXiv 2024**) [[paper](https://arxiv.org/abs/2404.03673)]
 
