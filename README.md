@@ -85,7 +85,7 @@
 
 - Score identity Distillation: Exponentially Fast Distillation of Pretrained Diffusion Models for One-Step Generation (**ICML 2024**) [[paper](https://arxiv.org/pdf/2404.04057)]
 
-
+- Discrete Flow Maching (**arXiv 2024**) [[paper](https://arxiv.org/abs/2407.15595)]
 
 
 
