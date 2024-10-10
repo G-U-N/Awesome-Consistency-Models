@@ -61,7 +61,7 @@
 
 - Target-Driven Distillation: Consistency Distillation with Target Timestep Selection and Decoupled Guidance (**arXiv 2024**) [[paper](https://arxiv.org/abs/2409.01347)]
 
-### Related Works
+### Further Reading
 
 - Score-Based Generative Modeling through Stochastic Differential Equations (**ICLR 2021**) [[paper](https://arxiv.org/abs/2011.13456)]
 
