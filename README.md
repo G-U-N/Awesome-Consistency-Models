@@ -87,7 +87,7 @@
 
 - Discrete Flow Maching (**arXiv 2024**) [[paper](https://arxiv.org/abs/2407.15595)]
 
-- Rectified Diffusion: Straightness Is Not Your Need in Rectified Flow
+- Rectified Diffusion: Straightness Is Not Your Need in Rectified Flow (**arXiv 2024**) [[paper](https://arxiv.org/abs/2410.07303)]
 
 
 
