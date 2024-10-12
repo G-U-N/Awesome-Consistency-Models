@@ -89,6 +89,7 @@
 
 - Rectified Diffusion: Straightness Is Not Your Need in Rectified Flow (**arXiv 2024**) [[paper](https://arxiv.org/abs/2410.07303)]
 
+- Fast ODE-based Sampling for Diffusion Models in Around 5 Steps (**ICML 2024**) [[paper](https://arxiv.org/abs/2312.00094)]
 
 
 
