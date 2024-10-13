@@ -61,6 +61,8 @@
 
 - Target-Driven Distillation: Consistency Distillation with Target Timestep Selection and Decoupled Guidance (**arXiv 2024**) [[paper](https://arxiv.org/abs/2409.01347)]
 
+- Presto! Distilling Steps and Layers for Accelerating Music Generation (**arxiv 2024**) [[paper](https://arxiv.org/pdf/2410.05167)]
+
 ### Further Reading
 
 - Score-Based Generative Modeling through Stochastic Differential Equations (**ICLR 2021**) [[paper](https://arxiv.org/abs/2011.13456)]
