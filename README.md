@@ -93,6 +93,10 @@
 
 - Fast ODE-based Sampling for Diffusion Models in Around 5 Steps (**ICML 2024**) [[paper](https://arxiv.org/abs/2312.00094)]
 
+- AN OVERLOOKED INGREDIENT FOR RECTIFIED FLOW: REAL SAMPLES (**OpenReview 2024**) [[paper](https://openreview.net/pdf/9f5657d9fe2a06bc82b997b83332721b61734f8b.pdf)]
+
+- SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation (**CVPR 2024**) [[paper](https://arxiv.org/abs/2312.05239)]
+
 
 
 
