@@ -61,7 +61,9 @@
 
 - Target-Driven Distillation: Consistency Distillation with Target Timestep Selection and Decoupled Guidance (**arXiv 2024**) [[paper](https://arxiv.org/abs/2409.01347)]
 
-- Presto! Distilling Steps and Layers for Accelerating Music Generation (**arxiv 2024**) [[paper](https://arxiv.org/pdf/2410.05167)]
+- Presto! Distilling Steps and Layers for Accelerating Music Generation (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2410.05167)]
+
+- Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models (**arXiv 2024**) [[paper](https://arxiv.org/abs/2410.11081)]
 
 ### Further Reading
 
