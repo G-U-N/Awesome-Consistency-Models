@@ -27,6 +27,8 @@
 
 - AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning (**SIGGRAPH ASIA TCS 2024**)[[paper](https://arxiv.org/abs/2402.00769)]
 
+- Hyper-SD: Trajectory Segmented Consistency Model for Efficient Image Synthesis (**NeurIPS 2024**) [[paper](https://arxiv.org/abs/2404.13686)]
+
 ### Preprint
 
 
@@ -49,7 +51,6 @@
 - Generalized Consistency Trajectory Models for Image Manipulation (**arXiv 2024**) [[paper](https://arxiv.org/abs/2403.12510)]
 
 - Consistency Models Made Easy (**arXiv 2024**) [[Blog](https://gsunshine.notion.site/Consistency-Models-Made-Easy-954205c0b4a24c009f78719f43b419cc)] [[paper](https://arxiv.org/abs/2406.14548)]
-- Hyper-SD: Trajectory Segmented Consistency Model for Efficient Image Synthesis (**arXiv 2024**) [[paper](https://arxiv.org/abs/2404.13686)]
 
 - TRACT
 
@@ -64,6 +65,8 @@
 - Presto! Distilling Steps and Layers for Accelerating Music Generation (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2410.05167)]
 
 - Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models (**arXiv 2024**) [[paper](https://arxiv.org/abs/2410.11081)]
+
+- Trajectory consistency distillation. (**arXiv 2024**) [[paper](https://arxiv.org/abs/2402.19159)]
 
 ### Further Reading
 
