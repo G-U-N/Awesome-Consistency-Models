@@ -29,6 +29,8 @@
 
 - Hyper-SD: Trajectory Segmented Consistency Model for Efficient Image Synthesis (**NeurIPS 2024**) [[paper](https://arxiv.org/abs/2404.13686)]
 
+- Consistency Diffusion Bridge Models. (**NeurIPS 2024**) [[paper](https://arxiv.org/abs/2410.22637)]
+
 ### Preprint
 
 
