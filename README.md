@@ -107,7 +107,7 @@
 
 - Inconsistencies In Consistency Models: Better ODE Solving Does Not Imply Better Samples. (**NeurIPS 2024 Workshop**) [[paper](https://openreview.net/forum?id=2p4ES8QPUi)]
 
-
+- Understanding Hallucinations in Diffusion Models through Mode Interpolation [[paper](https://arxiv.org/abs/2406.09358)]
 
 > If you find some work missing, please PR. 
 
