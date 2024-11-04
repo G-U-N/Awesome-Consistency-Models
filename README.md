@@ -31,6 +31,8 @@
 
 - Consistency Diffusion Bridge Models. (**NeurIPS 2024**) [[paper](https://arxiv.org/abs/2410.22637)]
 
+- Inconsistencies In Consistency Models: Better ODE Solving Does Not Imply Better Samples. (**NeurIPS 2024 Workshop**) [[paper](https://openreview.net/forum?id=2p4ES8QPUi)]
+
 ### Preprint
 
 
