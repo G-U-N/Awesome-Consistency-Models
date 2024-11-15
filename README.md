@@ -110,7 +110,9 @@
 
 - Understanding Hallucinations in Diffusion Models through Mode Interpolation [[paper](https://arxiv.org/abs/2406.09358)]
 
-- Rethinking Score Distillation as a Bridge Between Image Distributions
+- Rethinking Score Distillation as a Bridge Between Image Distributions (**arXiv 2024**) [[paper](https://arxiv.org/abs/2406.09417)]
+
+- One-Step Diffusion Distillation through Score Implicit Matching. (**NeurIPS 2024**) [[Paper](https://arxiv.org/abs/2410.16794)]
 
 > If you find some work missing, please PR. 
 
