@@ -116,6 +116,7 @@
 
 - The Fokker Planck Equation and Diffusion Models. [[Blog](https://www.peterholderrieth.com/blog/2023/The-Fokker-Planck-Equation-and-Diffusion-Models/)]
 
+- Generative AI and Foundation Models, Spring 2024 by Ernest K. Ryu [[Page](https://ernestryu.com/courses/FM.html)].
 
 > If you find some work missing, please PR. 
 
