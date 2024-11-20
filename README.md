@@ -72,6 +72,8 @@
 - Trajectory consistency distillation. (**arXiv 2024**) [[paper](https://arxiv.org/abs/2402.19159)]
 
 - Stable Consistency Tuning: Understanding and Improving Consistency Models (**arXiv 2024**) [[paper](https://arxiv.org/abs/2410.18958)]
+
+- One Step Diffusion via Shortcut Models (**arXiv 2024**) [[paper](https://arxiv.org/abs/2410.12557)]
 ### Further Reading
 
 - Score-Based Generative Modeling through Stochastic Differential Equations (**ICLR 2021**) [[paper](https://arxiv.org/abs/2011.13456)]
