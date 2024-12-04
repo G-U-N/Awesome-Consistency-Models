@@ -120,5 +120,7 @@
 
 - Generative AI and Foundation Models, Spring 2024 by Ernest K. Ryu [[Page](https://ernestryu.com/courses/FM.html)].
 
+- A Visual Dive into Conditional Flow Matching [[Blog](https://dl.heeere.com/conditional-flow-matching/blog/conditional-flow-matching/)]
+
 > If you find some work missing, please PR. 
 
