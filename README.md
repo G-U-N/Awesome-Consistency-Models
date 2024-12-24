@@ -34,7 +34,8 @@
 
 ### Preprint
 
-
+- Real-time One-Step Diffusion-based Expressive Portrait Videos Generation (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2412.13479)]
+  
 - RL for Consistency Models: Faster Reward Guided Text-to-Image Generation (**arXiv 2024**) [[paper](https://arxiv.org/abs/2404.03673)]
 
 - Latent Consistency Models: Synthesizing High-Resolution Images with Few-step Inference (**arXiv 2023**) [[paper](https://arxiv.org/abs/2310.04378)]
