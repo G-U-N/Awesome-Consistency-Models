@@ -78,6 +78,8 @@
 
 - From Slow Bidirectional to Fast Causal Video Generators (**arXiv 2024**) [[paper](https://arxiv.org/abs/2412.07772)]
 
+- DOLLAR: Few-Step Video Generation via Distillation and Latent Reward Optimization (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2412.15689)]
+
 
 ### Further Reading
 
