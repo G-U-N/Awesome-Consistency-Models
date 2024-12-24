@@ -75,6 +75,10 @@
 - Stable Consistency Tuning: Understanding and Improving Consistency Models (**arXiv 2024**) [[paper](https://arxiv.org/abs/2410.18958)]
 
 - One Step Diffusion via Shortcut Models (**arXiv 2024**) [[paper](https://arxiv.org/abs/2410.12557)]
+
+- From Slow Bidirectional to Fast Causal Video Generators (**arXiv 2024**) [[paper](https://arxiv.org/abs/2412.07772)]
+
+
 ### Further Reading
 
 - Score-Based Generative Modeling through Stochastic Differential Equations (**ICLR 2021**) [[paper](https://arxiv.org/abs/2011.13456)]
