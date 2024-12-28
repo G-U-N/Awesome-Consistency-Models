@@ -80,6 +80,8 @@
 
 - DOLLAR: Few-Step Video Generation via Distillation and Latent Reward Optimization (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2412.15689)]
 
+- SnapGen-V: Generating a Five-Second Video within Five Seconds on a Mobile Device (**arXiv 2024**) [[paper](https://www.arxiv.org/abs/2412.10494)]
+
 
 ### Further Reading
 
