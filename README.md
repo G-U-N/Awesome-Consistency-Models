@@ -133,5 +133,7 @@
 
 - A Visual Dive into Conditional Flow Matching [[Blog](https://dl.heeere.com/conditional-flow-matching/blog/conditional-flow-matching/)]
 
+- CONSISTENT FLOW DISTILLATION FOR TEXT-TO-3D GENERATION
+
 > If you find some work missing, please PR. 
 
