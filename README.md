@@ -82,6 +82,8 @@
 
 - SnapGen-V: Generating a Five-Second Video within Five Seconds on a Mobile Device (**arXiv 2024**) [[paper](https://www.arxiv.org/abs/2412.10494)]
 
+- MotionPCM: Real-Time Motion Synthesis with Phased Consistency Model (**arXiv 2025**) [[paper](https://arxiv.org/abs/2501.19083v1)]
+
 
 ### Further Reading
 
