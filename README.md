@@ -137,5 +137,7 @@
 
 - CONSISTENT FLOW DISTILLATION FOR TEXT-TO-3D GENERATION
 
+- Visual GenerationWithout Guidance
+
 > If you find some work missing, please PR. 
 
