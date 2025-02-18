@@ -139,5 +139,7 @@
 
 - Visual GenerationWithout Guidance
 
+- PSEUDO NUMERICAL METHODS FOR DIFFUSION MODELS ON MANIFOLDS (**ICLR 2024**)
+
 > If you find some work missing, please PR. 
 
