@@ -141,5 +141,7 @@
 
 - PSEUDO NUMERICAL METHODS FOR DIFFUSION MODELS ON MANIFOLDS (**ICLR 2024**)
 
+- Efficient, Accurate and Stable Gradients for Neural ODEs
+
 > If you find some work missing, please PR. 
 
