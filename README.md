@@ -139,7 +139,7 @@
 
 - Visual GenerationWithout Guidance
 
-- PSEUDO NUMERICAL METHODS FOR DIFFUSION MODELS ON MANIFOLDS (**ICLR 2024**)
+- PSEUDO NUMERICAL METHODS FOR DIFFUSION MODELS ON MANIFOLDS (**ICLR 2022**)
 
 - Efficient, Accurate and Stable Gradients for Neural ODEs
 
