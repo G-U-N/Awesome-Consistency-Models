@@ -34,6 +34,8 @@
 
 ### Preprint
 
+- Inductive Moment Matching (**arXiv 2025**) [[paper](https://arxiv.org/abs/2503.07565)]
+   
 - Real-time One-Step Diffusion-based Expressive Portrait Videos Generation (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2412.13479)]
   
 - RL for Consistency Models: Faster Reward Guided Text-to-Image Generation (**arXiv 2024**) [[paper](https://arxiv.org/abs/2404.03673)]
