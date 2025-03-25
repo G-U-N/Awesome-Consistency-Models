@@ -145,5 +145,7 @@
 
 - Efficient, Accurate and Stable Gradients for Neural ODEs
 
+- BLOCK DIFFUSION: INTERPOLATING BETWEEN AUTOREGRESSIVE AND DIFFUSION LANGUAGE MODELS (**ICLR 2025**)
+
 > If you find some work missing, please PR. 
 
