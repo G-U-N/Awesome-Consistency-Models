@@ -147,5 +147,7 @@
 
 - BLOCK DIFFUSION: INTERPOLATING BETWEEN AUTOREGRESSIVE AND DIFFUSION LANGUAGE MODELS (**ICLR 2025**)
 
+- Distilling ODE Solvers of Diffusion Models into Smaller Steps (**CVPR 2024**)
+
 > If you find some work missing, please PR. 
 
