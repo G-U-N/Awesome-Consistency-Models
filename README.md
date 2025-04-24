@@ -149,5 +149,11 @@
 
 - Distilling ODE Solvers of Diffusion Models into Smaller Steps (**CVPR 2024**)
 
+- Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs
+
+- ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models
+
+- DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models
+
 > If you find some work missing, please PR. 
 
