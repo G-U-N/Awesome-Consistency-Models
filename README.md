@@ -155,5 +155,7 @@
 
 - DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models
 
+-  Understanding R1-Zero-Like Training: A Critical Perspective
+
 > If you find some work missing, please PR. 
 
